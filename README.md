@@ -63,6 +63,6 @@ github 链接：[clash-verge-rev/clash-verge-rev: A modern GUI client based on T
 
 安装完成之后，在 clash verge 的订阅中导入订阅，订阅链接可以在 x-ui 的入站中获取，在入站列表中，在菜单选择导出链接-订阅设置，复制里面的链接使用浏览器打开，如果页面没有加载需耐心等待，这个页面会显示二维码，选择右边的 Clash 二维码，点击二维码就能复制里面的链接，使用此链接作为订阅地址导入到 Clash Verge 中。
 
-![348](Pasted%20image%2020260506184533.png)
-
+<img width="353" height="513" alt="Pasted image 20260506184533" src="https://github.com/user-attachments/assets/a35776e6-2f9c-485c-aeb8-bfee32c58754" />  
+  
 到这里你已经全部完成了，你可以在客户端打开系统代理，测试网站是否能正常访问
