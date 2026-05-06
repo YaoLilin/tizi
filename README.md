@@ -61,6 +61,9 @@ sysctl -p
 你需要在你的电脑上安装客户端，才可以连接到服务器，可以使用 clash verge。
 github 链接：[clash-verge-rev/clash-verge-rev: A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience](https://github.com/clash-verge-rev/clash-verge-rev)
 
+如果你想使用其它客户端，这个仓库列出了所有的 clash 客户端：
+[clashbk/clash: Clash官网各版本Clash下载地址及备份下载地址](https://github.com/clashbk/clash)  
+
 安装完成之后，在 clash verge 的订阅中导入订阅，订阅链接可以在 x-ui 的入站中获取，在入站列表中，在菜单选择导出链接-订阅设置，复制里面的链接使用浏览器打开，如果页面没有加载需耐心等待，这个页面会显示二维码，选择右边的 Clash 二维码，点击二维码就能复制里面的链接，使用此链接作为订阅地址导入到 Clash Verge 中。
 
 <img width="353" height="513" alt="Pasted image 20260506184533" src="https://github.com/user-attachments/assets/a35776e6-2f9c-485c-aeb8-bfee32c58754" />  
